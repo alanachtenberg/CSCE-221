@@ -1,0 +1,116 @@
+Question #1. What is a data structure?
+4
+A data structure is a systematic way of organizing input data and specifying operations which can be performed on this data.
+A hexagon of numbers and letters
+Buildings that contain information servers
+A header file
+1
+
+Question #2. Which of these is a c++ abstract data type?
+5
+int
+string
+double
+vector
+char
+4
+
+Question #3. What is an abstract data type?
+3
+a class with virtual member functions
+model that specifies the type of the data stored the operations that support the data, without implementation
+graphical data type that resembles abstract art
+2
+
+Question #4. How would you correctly use an initialization list in c++11?
+3
+int a{1,2,3,4};
+int a(1,2,3,4};
+int a[4]{1,2,3,4};
+3
+
+Question #5. Which of these is NOT a control statement in c++?
+5
+for (int i=0;i<n;++n);
+while (n>0);
+if (n);
+n=0;
+switch (n):
+4
+
+Question #6. What is NOT an advantage of a linked list?
+3
+direct access to elements
+easy and effecient insert and delete
+size can easily and effeciently be increased and decreased
+1
+
+Question #7. A compiler links object code together?
+2
+True
+False
+2
+
+Question #8. A linker creates object code from c++ source code?
+2
+True
+False
+2
+
+Question #9. Which of these is a type of relationship data structures can have?
+4
+linear
+hierarchical
+arbitrary
+all of the above
+4
+
+Question #10. Which of these is not a typical operation on a data structure?
+5
+insert
+delete
+hide
+search
+sort
+3
+
+Question #11. How would you declare a class the STL library with T=type?
+4
+vector type;
+matrix a(type);
+<list> type();
+map<type> m;
+4
+
+Question #12. What is an advantage of a vector over using an array?
+3
+smaller overhead
+size can be changed without explicitly calling the new operator
+no range checking
+2
+
+Question #13. How would you specify an API(application programming interface) in c++?
+4
+with a class using only virtual functions
+with code implemented in a main.cpp
+with a preproccessing command
+with a defined struct
+1
+
+Question #14. Which one is a major difference between java and c++?
+5
+ability to define user types
+control statements such as if for and while
+use of pointer to object types
+ability to define and call functions
+high level code abstraction
+3
+
+Question #15. Who invented c++?
+4
+Bjarne Stroustrup
+Gordon Moore
+Einstein
+Dr. Leyk
+1
+
