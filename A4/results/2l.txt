@@ -1,0 +1,5 @@
+node count: 3
+average search cost: 2
+1 _ _ _  ENDL
+_ 2 _ _  ENDL
+_ _ 3 _  ENDL

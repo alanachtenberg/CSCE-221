@@ -1,0 +1,5 @@
+node count: 7
+average search cost: 2.42857
+_ 4 _ _  ENDL
+2 _ 6 _  ENDL
+1 3 5 7  ENDL
